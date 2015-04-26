@@ -7,7 +7,8 @@ soma_erros = 0;
 soma_epocas = 0;
 
 % gera o conjunto de dados.
-
+%X = unifrnd(-1, 1, N, 2);
+	
 for i=1:maxRuns
 
 	printf ("Run  %i \n",i);
