@@ -1,4 +1,4 @@
-N = 10pas;
+N = 10;
 maxRuns = 1000;
 maxEpocas = 1000;
 DEBUG_FLAG = 0;
